@@ -1,0 +1,14 @@
+{
+  "name": "zw-gi",
+  "version": "0.0.1",
+  "description": "快速生成gitignore的命令行工具",
+  "main": "getIgnore.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "朱维",
+  "license": "ISC",
+  "bin": {
+    "zw-gi": "bin/zw-gi"
+  }
+}

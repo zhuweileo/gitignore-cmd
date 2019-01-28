@@ -1,0 +1,3 @@
+#!/usr/bin/env node
+var getIgnore = require('../getIgnore')
+getIgnore();
